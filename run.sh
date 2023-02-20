@@ -1,3 +1,1 @@
-let A = $1 + $2
-
-echo A$
+mkdir fold1
