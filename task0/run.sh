@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "7\n"
+echo "7"
