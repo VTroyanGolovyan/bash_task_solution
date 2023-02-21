@@ -1,3 +1,3 @@
 #!/bin/bash
-mkdir fold1
-echo "kek"
+let a = "$1 + $2"
+echo $a
