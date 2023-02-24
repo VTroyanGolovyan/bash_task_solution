@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -n "7"
+echo -n "$(($1 + $2))"
