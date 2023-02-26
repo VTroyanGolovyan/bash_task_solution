@@ -1,2 +1,2 @@
 #!/bin/bash
-python ./haha.py
+python3 ./haha.py
