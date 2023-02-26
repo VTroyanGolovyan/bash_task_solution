@@ -1,2 +1,5 @@
 #!/bin/bash
-python3 ./haha.py
+
+a=$1
+b=$2
+echo -n "$((a + b))"
